@@ -12,3 +12,5 @@ It's just my first day, so it's too early for me to answer that.
 That I get too far behind and I do not finish the course.
 ## Is this fear valid? If so, does it serve you as someone learning to program?
 It's very much a possibility, with classes taking place every day. I will just have to work hard and use the resources available to me.
+
+Yo, adding this to test GitHub
