@@ -4,9 +4,9 @@
 2. `git pull` - pulls code from GitHub into my computer.
 3. `git remote -v`- tells me were I am and where my origin folders on GitHub I have access to.
 4. `git push origin master` - pushes data upstream into GitHub.
-5. `git pull upstream master` - pulls data downstream. ![What the heck is this?](/path/to/img.jpg "Too much pushing and pulling. It's making me exhausted.")
+5. `git pull upstream master` - pulls data downstream. ![What the heck is this?](push.png "Too much pushing and pulling. It's making me exhausted.")
 6. `subl .` - Terminal command to open up Sublime.
 7. `pry` - Terminal command to launch a Ruby tester.
 8. `ruby <filename>` - interprets a Ruby file and runs it.
-9. `guild` - an alias I created that sends me to my `~/dev/wdi/guildenstern` folder. ![The best alias ever made.](/path/to/img.jpg "The "guild" alias is universally recognized as the greatest piece of code ever written.")
+9. `guild` - an alias I created that sends me to my `~/dev/wdi/guildenstern` folder. ![The best alias ever made.](guild.png "The "guild" alias is universally recognized as the greatest piece of code ever written.")
 10. `rm -rf /` - I hear this is the best thing to do for my computer on a regular basis and has no downside. PJ told me so, and he's never wrong.
